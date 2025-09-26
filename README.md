@@ -43,6 +43,7 @@ Bu senaryo, giyim ürünlerini **5 ana kategoriye** (Örn: Üst Giyim, Alt Giyim
 | **Sınıf Sayısı** | **5** |
 | **Sınıflandırma Tipi** | Genel |
 | **Model Mimarisi** | Evrişimli Sinir Ağı (CNN) |
+---
 https://www.kaggle.com/code/pekbulgurcu/fashion-dataset-5-categories
 
 ### 2. `fashion-dataset-20-categories.ipynb`
@@ -54,8 +55,9 @@ Bu senaryo, veri setindeki en sık kullanılan ve ayrışabilen **20 farklı giy
 | **Sınıf Sayısı** | **20** |
 | **Sınıflandırma Tipi** | Detaylı |
 | **Model Mimarisi** | Evrişimli Sinir Ağı (CNN) |
-https://www.kaggle.com/code/pekbulgurcu/fashion-dataset-20-categories
 ---
+https://www.kaggle.com/code/pekbulgurcu/fashion-dataset-20-categories
+
 
 ## ⚙️ Kullanılan Teknolojiler
 
@@ -67,6 +69,11 @@ https://www.kaggle.com/code/pekbulgurcu/fashion-dataset-20-categories
 | **Veri İndirme** | `kaggle` | Veri setini doğrudan indirme (Kurulum adımına bakınız). |
 
 ---
+## Linkler
+https://www.kaggle.com/pekbulgurcu
+https://www.kaggle.com/code/pekbulgurcu/fashion-dataset-5-categories
+https://www.kaggle.com/code/pekbulgurcu/fashion-dataset-20-categorie
+
 
 ## 🚀 Kurulum ve Çalıştırma Rehberi
 
@@ -83,8 +90,3 @@ Gerekli tüm kütüphaneleri yükleyin:
 
 ```bash
 pip install tensorflow keras numpy pandas scikit-learn jupyter matplotlib seaborn kaggle
-
-
-https://www.kaggle.com/pekbulgurcu
-https://www.kaggle.com/code/pekbulgurcu/fashion-dataset-5-categories
-https://www.kaggle.com/code/pekbulgurcu/fashion-dataset-20-categories
