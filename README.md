@@ -1,4 +1,4 @@
-# 🌟 Derin Öğrenme ile Giyim Görüntüsü Sınıflandırması: Kategori Sayılarının Performansa Etkisi
+# 👕 DEEP LEARNING: Giyim Kategorizasyonu (5 vs 20 Sınıf)
 
 ## 📖 Proje Hakkında
 
