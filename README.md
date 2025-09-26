@@ -24,9 +24,13 @@ Bu projede kullanılan veri kümesi, giyim ürünleri alanındaki popüler bir K
 
 ### 🔗 Kaggle Kaynağı
 
-> 🚨 **Lütfen Buraya Kaggle Linkini Ekleyin:**
->
-> **[Fashion Product Images (Small) - Kaggle]** (https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small)
+> 🚨 **Profil:**
+https://www.kaggle.com/pekbulgurcu
+> **5 kategori:**
+https://www.kaggle.com/code/pekbulgurcu/fashion-dataset-5-categories
+> **20 kategori:**
+https://www.kaggle.com/code/pekbulgurcu/fashion-dataset-20-categories
+> **[Fashion Product Images (Small) - Kaggle]** https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small
 
 ---
 
@@ -43,8 +47,6 @@ Bu senaryo, giyim ürünlerini **5 ana kategoriye** (Örn: Üst Giyim, Alt Giyim
 | **Sınıf Sayısı** | **5** |
 | **Sınıflandırma Tipi** | Genel |
 | **Model Mimarisi** | Evrişimli Sinir Ağı (CNN) |
---
-https://www.kaggle.com/code/pekbulgurcu/fashion-dataset-5-categories
 ---
 ### 2. `fashion-dataset-20-categories.ipynb`
 
@@ -55,8 +57,6 @@ Bu senaryo, veri setindeki en sık kullanılan ve ayrışabilen **20 farklı giy
 | **Sınıf Sayısı** | **20** |
 | **Sınıflandırma Tipi** | Detaylı |
 | **Model Mimarisi** | Evrişimli Sinir Ağı (CNN) |
---
-https://www.kaggle.com/code/pekbulgurcu/fashion-dataset-20-categories
 ---
 
 ## ⚙️ Kullanılan Teknolojiler
@@ -68,11 +68,6 @@ https://www.kaggle.com/code/pekbulgurcu/fashion-dataset-20-categories
 | **Veri Görselleştirme** | `Matplotlib` / `Seaborn` | Eğitim geçmişi ve sonuçları grafikleme. |
 | **Veri İndirme** | `kaggle` | Veri setini doğrudan indirme (Kurulum adımına bakınız). |
 
----
-## Linkler
-https://www.kaggle.com/pekbulgurcu
-https://www.kaggle.com/code/pekbulgurcu/fashion-dataset-5-categories
-https://www.kaggle.com/code/pekbulgurcu/fashion-dataset-20-categorie
 ---
 
 ## 🚀 Kurulum ve Çalıştırma Rehberi
