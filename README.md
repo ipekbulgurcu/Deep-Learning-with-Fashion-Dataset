@@ -24,14 +24,10 @@ Bu projede kullanılan veri kümesi, giyim ürünleri alanındaki popüler bir K
 
 ### 🔗 Kaggle Kaynağı
 
-> 🚨 **Profil:**
-> https://www.kaggle.com/pekbulgurcu
-> **5 kategori:**
-> https://www.kaggle.com/code/pekbulgurcu/fashion-dataset-5-categories
-> **20 kategori:**
-> https://www.kaggle.com/code/pekbulgurcu/fashion-dataset-20-categories
-> **[Fashion Product Images (Small) - Kaggle]**
-> https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small
+> 🚨 **Profil:** https://www.kaggle.com/pekbulgurcu
+> **5 kategori:**  https://www.kaggle.com/code/pekbulgurcu/fashion-dataset-5-categories
+> **20 kategori:** https://www.kaggle.com/code/pekbulgurcu/fashion-dataset-20-categories
+> **[Fashion Product Images (Small) - Kaggle]** https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small
 
 ---
 
